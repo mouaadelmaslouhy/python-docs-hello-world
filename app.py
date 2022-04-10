@@ -6,5 +6,5 @@ def hello():
     return "Hello, World!"
 
 @app.route("/mini")
-def hello():
+def mini():
     return "mini, kube!"
